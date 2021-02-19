@@ -1,4 +1,4 @@
-# haber_app
+# NewsApp with flutter using provider
 
 A new Flutter application.
 
